@@ -11,8 +11,8 @@ psycopg2-binary = "*"
 flask-cors = "*"
 pytest = "*"
 mock = "*"
-pytest-testdox = "*"
 pytest-ordering = "*"
+pytest-testdox = "*"
 
 [requires]
 python_version = "3.13"
